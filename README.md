@@ -31,6 +31,28 @@ Scope:
 This project has a wide scope as it is better than the manual tests. Following are some of its advantages:
 •	Both educational organizations and corporate companies can employ this Quiz.
 •	It, being an application based on web may be taken at any place or any time as the location is not considered.
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
+
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
+
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
+
+
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
+Project Modules:
+Login and registration
+User Login: To access exam user must be registered in the application. Once user will register in the examination system project user will be able to view all exams. The user can choose an exam and start the test.
+Admin Login: Admin can log in in the application and perform operations like manage exams, manage user, check the results, manage question, download the result pdf.
+Admin:
+Admin can add the exams type. Questions in existing exam and admin can modify complete database Like add user, delete the user, Add new exams, Add question answer, print the complete result seat in the pdf format and so on.
+User:
+The user can View all the test(Exams). The user can check the result history. The user can select exam on the basis of category also. Once user will select a category then the user will get those exams which come under the selected category.
+
+
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
+
+
+https://github.com/akshatbothraak1/Onlinequizproject/commit/1af1eaf06ff1975a1f5f99c55299020a9433d30a
 
 
 
