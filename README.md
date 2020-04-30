@@ -1,13 +1,13 @@
-# Online-Examination-System
+# Online-QUIZ-project
 This project is developed using java server pages (jsp) and MySQL is used for backend.
 IDE is the Netbeans.
 sql script is included in "db script" folder.
 Please create:
-exam_system as a database schema.
+akshatbothra as a database schema.
 
 database settings are in DatabaseClass.java.
 you can modify it or default settings are:
-db name:  exam_system
+db name:  akshatbothra
 user:     root
 pass:     root
 
